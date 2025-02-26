@@ -16,6 +16,11 @@
         "uiTheme": "vs-dark",
         "path": "./themes/Belle2 theme-color-theme.json"
       }
-    ]
+    ],
+    "semanticTokenColors": {
+      "module": "#ff0000",
+      "namespace": "#ff0000",
+      "variable.defaultLibrary": "#FFD700"
+    }
   }
 }
