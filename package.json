@@ -1,0 +1,21 @@
+{
+  "name": "b2thm",
+  "displayName": "Belle2_theme",
+  "description": "(Almost official) VSCode theme for the Belle2 experiment",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Belle2 theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Belle2 theme-color-theme.json"
+      }
+    ]
+  }
+}
